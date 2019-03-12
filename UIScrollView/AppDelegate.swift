@@ -2,8 +2,8 @@
 //  AppDelegate.swift
 //  UIScrollView
 //
-//  Created by Ege Sucu on 2019-03-12.
-//  Copyright © 2019 Ege Sucu. All rights reserved.
+//  Created by TurkishKit on 2019-03-12.
+//  Copyright © 2019 TurkishKit. All rights reserved.
 //
 
 import UIKit
